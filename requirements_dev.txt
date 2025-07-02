@@ -1,0 +1,4 @@
+
+-r requirements.txt
+-e .    
+# this is to trigger the setup file to run
